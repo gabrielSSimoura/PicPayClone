@@ -6,12 +6,9 @@ Este projeto utiliza o [Expo](https://expo.io/).
 
 ## Instalação
 
-Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
-```sh
-  $ git clone https://github.com/maateusilva/picpay-clone.git
-```
+Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina.
 
-Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
+Depois disso instale as dependências executando o seguinte comando:
 ```sh
   $ yarn install # ou npm install
 ```
